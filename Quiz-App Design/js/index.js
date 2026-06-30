@@ -1,5 +1,5 @@
-import Quiz from "./Quiz.js";
-import Question from "./Question.js"; /**
+import Quiz from "./js/quiz.js";
+import Question from "./js/question.js"; /**
  * ============================================
  * MAIN ENTRY POINT (index.js)
  * ============================================
